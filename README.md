@@ -1,6 +1,6 @@
 👋 Hi, I’m Nguyen Ba Huy
-I'm learning at FPT University
-Just interested in Information Assurance & Game Developer 
+- I'm learning at FPT University
+- Just interested in Information Assurance & Game Developer 
 
 
 <!---
